@@ -1,7 +1,11 @@
-## Verkefni í tölvugrafík
-
-Hér verður gerð heiðarleg tilraun við að setja inn hlekki þ.a. hægt sé að nálgast lausnir auðveldlega.
-
-### Heimadæmi (merkt Hx-Dy, H = heimadæmi, x = heimadæmi númer x, D = dæmi, y = dæmi nr. y)
-
-[H1-D5](https://github.com/elisabetasta/elisabetasta/blob/gh-pages/heimadaemi1.html)
+<h1 style="text-align: center;"><strong>Tolvugrafik 2022</strong></h1>
+<h2 style="text-align: center;">Elisabet Asta Olafsdottir</h2>
+<h3 style="text-align: center;"><a href="mailto:eao13@hi.is">eao13@hi.is</a></h3>
+<p>&nbsp;</p>
+<p>Heimadaemi 1</p>
+<ul>
+<li>daemi 5</li>
+</ul>
+<p>Heimadaemi 2</p>
+<p>&nbsp;</p>
+<p>Heimadaemi 3</p>
