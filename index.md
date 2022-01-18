@@ -4,5 +4,4 @@ Hér verður gerð heiðarleg tilraun við að setja inn hlekki þ.a. hægt sé 
 
 ### Heimadæmi (merkt Hx-Dy, H = heimadæmi, x = heimadæmi númer x, D = dæmi, y = dæmi nr. y)
 
-#### H1-D5
-
+[H1-D5](https://github.com/elisabetasta/elisabetasta/blob/gh-pages/heimadaemi1.html)
